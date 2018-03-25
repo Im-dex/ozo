@@ -31,6 +31,8 @@ namespace ozo {
 
 namespace hana = ::boost::hana;
 using namespace hana::literals;
+
+namespace fusion = ::boost::fusion;
 /**
 * PostgreSQL OID type - object identificator
 */
